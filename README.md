@@ -94,7 +94,7 @@ Weather app using external APIs and geolocation.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsynew72&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsynew72&show_icons=true&count_private=true&theme=radical)
 
 ---
 
