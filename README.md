@@ -1,6 +1,5 @@
 # 👋 Ameah Tem Chelsy
-
-## Full-Stack Developer | React | Node.js | MongoDB
+## Full-Stack Developer | React | Vue.js | Laravel | Node.js
 
 Motivated developer focused on building clean, functional web applications using modern technologies. I have hands-on experience with full-stack development and a strong foundation in JavaScript frameworks and backend development.
 
@@ -9,6 +8,7 @@ Motivated developer focused on building clean, functional web applications using
 💼 Actively seeking remote opportunities  
 
 ---
+
 ## 🛠️ Technical Skills
 
 ### 🎨 Frontend Development
@@ -17,8 +17,9 @@ Motivated developer focused on building clean, functional web applications using
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
 - Responsive design and UI implementation
 - Utility-first styling with Tailwind CSS
 - Cross-platform mobile apps with React Native
@@ -29,25 +30,53 @@ Motivated developer focused on building clean, functional web applications using
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- RESTful API development
-- MVC architecture fundamentals
-- Authentication & routing (Laravel basics)
-- Database architecture and management
+- RESTful API development (26+ endpoints)
+- MVC architecture
+- Authentication with Laravel Sanctum & JWT
+- Spaced repetition algorithms (SM-2)
+- AI API integration (Groq, Gemini)
 
 ### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- VS Code
-- Postman
-- Command Line
+- VS Code, Postman, Command Line
 
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 🃏 FlashcardApp — AI-Powered Spaced Repetition System
+**Repository:** # | **Live Demo:** #
+
+A full-stack flashcard application using the SM-2 spaced repetition algorithm and AI card generation, built to help students study smarter and retain knowledge longer.
+
+**Tech:** Vue 3 • TypeScript • Laravel 11 • MySQL • Groq AI • Sanctum
+
+**Backend highlights:**
+- 26 REST API endpoints with Laravel Sanctum authentication
+- SM-2 spaced repetition algorithm for intelligent card scheduling
+- AI card generator using Groq (LLaMA 3) — generates flashcards from any topic
+- AI smart hints — gives contextual hints after 3 failed attempts
+- AI deck suggestions — recommends public decks based on study history
+- Study session tracking with per-card progress and mastery levels
+
+**Frontend highlights:**
+- Vue 3 + TypeScript with Pinia state management
+- 3D card flip animation during study sessions
+- Keyboard shortcuts (Space to flip, 1–4 to rate)
+- Weekly activity chart, streak tracking, dashboard analytics
+- Full auth flow: register, login, forgot/reset password
+- Public deck exploration with clone functionality
+
+---
 
 ### 🛒 E-Commerce Platform
 **Repository:** # | **Live Demo:** #
