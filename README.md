@@ -3,15 +3,15 @@
 
 Motivated developer focused on building clean, functional web applications using modern technologies. I have hands-on experience with full-stack development and a strong foundation in JavaScript frameworks and backend development.
 
-🚀 Passionate about continuous learning  
-🌍 Based in Yaoundé, Cameroon  
-💼 Actively seeking remote opportunities  
+Passionate about continuous learning  
+Based in Yaoundé, Cameroon  
+Actively seeking remote opportunities  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🎨 Frontend Development
+###  Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -24,7 +24,7 @@ Motivated developer focused on building clean, functional web applications using
 - Utility-first styling with Tailwind CSS
 - Cross-platform mobile apps with React Native
 
-### ⚙️ Backend Development
+###  Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -49,7 +49,7 @@ Motivated developer focused on building clean, functional web applications using
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ---
 
