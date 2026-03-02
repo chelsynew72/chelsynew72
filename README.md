@@ -1,3 +1,7 @@
+Here's a refined version of your profile, including the requested tech stack icons.
+
+---
+
 # Ameah Tem Chelsy
 
 ## Full-Stack Developer | React | Node.js | MongoDB
@@ -9,21 +13,21 @@ Motivated developer focused on building clean, functional web applications using
 ## Technical Skills
 
 **Frontend Development**
-- React, Next.js, Vue.js
+- [React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) [Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive design and UI implementation
 
 **Backend Development**
-- Node.js, Express, NestJS
+- [Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white) [Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) [NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 - RESTful API design and development
 - Database design and management
 
 **Databases**
-- MongoDB (NoSQL)
-- PostgreSQL (Relational)
+- [MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) (NoSQL)
+- [PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) (Relational)
 
 **Development Tools**
-- Git version control
+- [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) version control
 - Visual Studio Code
 - Postman API testing
 - Command line basics
@@ -82,7 +86,7 @@ A modern weather application that provides real-time meteorological data with ge
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameah-tem-chelsy&show_icons=true&theme=default)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsynew72&show_icons=true&theme=default)
 
 ---
 
@@ -99,3 +103,7 @@ A modern weather application that provides real-time meteorological data with ge
 **Open to Opportunities**
 
 I am actively seeking roles where I can apply my current skills while continuing to grow as a developer. I'm enthusiastic about learning new technologies and best practices, and I'm committed to writing clean, maintainable code. Interested in full-time remote positions or contract work with teams that value mentorship and professional development.
+
+--- 
+
+Feel free to customize any links or sections as needed!
