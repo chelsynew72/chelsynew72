@@ -123,7 +123,15 @@ Weather app using external APIs and geolocation.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-delta.vercel.app/api?username=chelsynew72&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsynew72&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsynew72&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chelsynew72&theme=radical)
 
 ---
 
