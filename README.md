@@ -9,23 +9,29 @@ Motivated developer focused on building clean, functional web applications using
 💼 Actively seeking remote opportunities  
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - HTML5, CSS3, JavaScript (ES6+)
 - Responsive design and UI implementation
+- Utility-first styling with Tailwind CSS
+- Cross-platform mobile apps with React Native
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 - RESTful API development
+- MVC architecture fundamentals
+- Authentication & routing (Laravel basics)
 - Database architecture and management
 
 ### 🗄️ Databases
