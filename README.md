@@ -24,17 +24,20 @@ Actively seeking remote opportunities
 - Utility-first styling with Tailwind CSS
 - Cross-platform mobile apps with React Native
 
-###  Backend Development
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel (Learning)](https://img.shields.io/badge/Laravel-Learning-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- RESTful API development (26+ endpoints)
-- MVC architecture
-- Authentication with Laravel Sanctum & JWT
-- Spaced repetition algorithms (SM-2)
-- AI API integration (Groq, Gemini)
+- Backend API development
+- Server-side application architecture
+- Database design & integration (MongoDB, SQL)
+- Authentication & authorization systems
+- CRUD operations & data handling
+- Middleware & request handling
+- Error handling & validation
+- Building scalable web applications
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
