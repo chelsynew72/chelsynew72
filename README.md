@@ -11,7 +11,7 @@ Actively seeking remote opportunities
 
 ## 🛠️ Technical Skills
 
-###  Frontend Development
+### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,11 +50,31 @@ Actively seeking remote opportunities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
+## Featured Projects
 
 ---
 
-##  Featured Projects
+### 💪 FitPro — Full-Stack Fitness Coaching Platform
+**Repository:** [github.com/chelsynew72/Fitness-Coaching-Platform](https://github.com/chelsynew72/Fitness-Coaching-Platform) | **Live Demo:** [fitness-coaching-platform-frontend.vercel.app](https://fitness-coaching-platform-frontend.vercel.app)
+
+A complete fitness coaching platform connecting coaches with clients — with real-time messaging, workout tracking, nutrition logging, progress analytics and subscription billing.
+
+**Tech:** Next.js 14 • NestJS • MongoDB • TypeScript • Tailwind CSS • Socket.io • Firebase Auth • Recharts
+
+**Key highlights:**
+- 3 user roles: Client, Coach, Admin — each with dedicated dashboards and workflows
+- Real-time WebSocket chat between coaches and clients
+- Google OAuth sign-in via Firebase (email + social login)
+- Workout plan builder — multi-week templates with exercises, sets, reps and rest timers
+- Live session tracking — clients log workouts with timers and ratings
+- Progress analytics — weight trends, mood/energy charts, body measurement tracking
+- Nutrition logging — 1M+ food database via Open Food Facts API with macro tracking
+- Subscription billing — monthly plans, payment history, MRR dashboard
+- Admin panel — coach approvals, user management, platform-wide revenue overview
+- Fully mobile responsive with hamburger nav and touch-friendly UI
+- Deployed: Frontend on Vercel, Backend on Render, Database on MongoDB Atlas
 
 ---
 
@@ -95,20 +115,6 @@ Full-stack e-commerce solution with secure payments and admin dashboard.
 - Admin dashboard
 - Product filtering
 - Order tracking
-
----
-
-### ✅ Task Management App
-**Repository:** # | **Live Demo:** #
-
-Real-time collaborative task management system.
-
-**Tech:** React • Firebase • Material UI
-
-- Real-time updates
-- Task priority management
-- Team collaboration
-- Responsive dashboard
 
 ---
 
