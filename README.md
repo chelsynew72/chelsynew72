@@ -1,5 +1,5 @@
 # 👋 Ameah Tem Chelsy
-## Full-Stack Developer | React | Vue.js | Laravel | Node.js
+## Full-Stack Developer | React | Vue.js  | Node.js
 
 Motivated developer focused on building clean, functional web applications using modern technologies. I have hands-on experience with full-stack development and a strong foundation in JavaScript frameworks and backend development.
 
@@ -79,7 +79,7 @@ A complete fitness coaching platform connecting coaches with clients — with re
 ---
 
 ### 🃏 FlashcardApp — AI-Powered Spaced Repetition System
-**Repository:** # | **Live Demo:** #
+**https://github.com/chelsynew72/flashcard-app:** # | **https://flashcard-app-five-gamma.vercel.app/:** #
 
 A full-stack flashcard application using the SM-2 spaced repetition algorithm and AI card generation, built to help students study smarter and retain knowledge longer.
 
@@ -103,20 +103,7 @@ A full-stack flashcard application using the SM-2 spaced repetition algorithm an
 
 ---
 
-### 🛒 E-Commerce Platform
-**Repository:** # | **Live Demo:** #
 
-Full-stack e-commerce solution with secure payments and admin dashboard.
-
-**Tech:** React • Node.js • Express • MongoDB • Stripe API
-
-- Authentication & authorization
-- Payment integration
-- Admin dashboard
-- Product filtering
-- Order tracking
-
----
 
 ### 🌦️ Weather Dashboard
 **Repository:** # | **Live Demo:** #
