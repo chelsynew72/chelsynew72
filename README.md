@@ -3,10 +3,11 @@
 
 Motivated developer focused on building clean, functional web applications using modern technologies. I have hands-on experience with full-stack development and a strong foundation in JavaScript frameworks and backend development.
 
-- 📍 Based in Yaoundé, Cameroon
-- 🌱 Passionate about continuous learning
-- 🌐 Portfolio: [my-portfolio-steel-seven-91.vercel.app](https://my-portfolio-steel-seven-91.vercel.app/)
-- 📧 Email: [chelsynew72@gmail.com](mailto:chelsynew72@gmail.com)
+-  Based in Yaoundé, Cameroon
+-  Open to Work
+-  Passionate about continuous learning
+-  Portfolio: [my-portfolio-steel-seven-91.vercel.app](https://my-portfolio-steel-seven-91.vercel.app/)
+-  Email: [chelsynew72@gmail.com](mailto:chelsynew72@gmail.com)
 
 ---
 
