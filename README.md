@@ -25,7 +25,7 @@ Motivated developer focused on building clean, functional web applications using
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) *(Learning)*
 
 **Databases & Tools**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -69,7 +69,7 @@ A complete fitness coaching platform connecting coaches with clients, featuring 
 
 A full-stack flashcard application using the SM-2 spaced repetition algorithm and AI card generation, built to help students study smarter and retain knowledge longer.
 
-**Tech Stack:** Vue 3 · TypeScript · Laravel 11 · MySQL · Groq AI (LLaMA 3) · Sanctum
+**Tech Stack:** Vue 3 · TypeScript · Laravel 11 (currently learning) · MySQL · Groq AI (LLaMA 3) · Sanctum
 
 **Backend**
 - 26 REST API endpoints with Laravel Sanctum authentication
