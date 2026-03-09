@@ -42,6 +42,7 @@ Motivated developer focused on building clean, functional web applications using
 
 ### 💪 FitPro — Full-Stack Fitness Coaching Platform
 > [GitHub](https://github.com/chelsynew72/Fitness-Coaching-Platform) · [Live Demo](https://fitness-coaching-platform-frontend.vercel.app)
+> ![FitPro Preview](assets/fitpro-preview.png)
 
 A complete fitness coaching platform connecting coaches with clients, featuring real-time messaging, workout tracking, nutrition logging, progress analytics, and subscription billing.
 
@@ -64,6 +65,7 @@ A complete fitness coaching platform connecting coaches with clients, featuring 
 
 ### 🃏 FlashcardApp — AI-Powered Spaced Repetition System
 > [GitHub](https://github.com/chelsynew72/flashcard-app) · [Live Demo](https://flashcard-app-five-gamma.vercel.app/)
+> ![FlashcardApp Preview](assets/flashcard-preview.png)
 
 A full-stack flashcard application using the SM-2 spaced repetition algorithm and AI card generation, built to help students study smarter and retain knowledge longer.
 
